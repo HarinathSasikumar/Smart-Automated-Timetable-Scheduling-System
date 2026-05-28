@@ -334,7 +334,7 @@ start.bat
 >>>>>>> 87cb941609705d62f9c698cc714f7784a69e9528
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/smart-timetable-scheduling.git
+git clone https://github.com/HarinathSasikumar/smart-timetable-scheduling.git
 cd smart-timetable-scheduling
 ```
 <<<<<<< HEAD
